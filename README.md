@@ -1,6 +1,6 @@
 # Welcome to our Brazilian e-commerce data by Olist BI and Data Science project! 🛒✨
 
-Hey there! 👋 We're thrilled to share our group project for the **Business Intelligence and Data Mining** module at UWE Bristol. This is our take on building a **Shopping Recommender System**—a fun and practical way to help customers find products they’ll love, all powered by data mining and machine learning magic! 🎉
+Hey there! 👋 We're thrilled to share our project for the **Business Intelligence and Data Mining** module at UWE Bristol. This is our take on building a **Shopping Recommender System**—a fun and practical way to help customers find products they’ll love, all powered by data mining and machine learning magic! 🎉
 
 ## What’s This All About? 🌟
 
